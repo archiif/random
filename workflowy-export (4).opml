@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      dough.mean@gmail.com
+    </ownerEmail>
+  </head>
+  <body>
+    <outline text="foo">
+      <outline text="foo">
+        <outline text="lorem" _note="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a est ut mi blandit elementum. Nulla molestie metus quis lobortis rut&#10;rum. Quisque commodo ligul&#10;a ex, vitae interdum turpis porta eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ve&#10;stibulum nec ligula non est rhoncus efficitur. Nullam diam nisl, dictum pharetra congue ut, congue in nisi. Sed semper non est ut pulvinar." />
+        <outline text="ipsum" _note="Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras vehicula faucibus sem sit amet dapibus. Aenean semper orci vel c&#10;ommodo vehicula. Quisque at justo elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam magna ex, dapibus eu purus vel, mollis venenatis enim. Nam turpis ligula&#10;, rutrum ac venenatis hendrerit, imperdiet vel libero. Etiam varius dolor mauris, nec fermentum lectus tempus in. Etiam vulputate dolor n&#10;ec cursus elementum. Nulla non finibus erat, quis lobortis erat. Cras rhoncus accumsan purus, at sagittis velit scelerisque eu. Aenean consectetur erat magna, vehicula fringilla neque condimentum eget. Donec scelerisque ex a est rhoncus, eget malesuada nibh faucibus." />
+      </outline>
+      <outline text="&lt;b&gt;bar&lt;/b&gt;">
+        <outline text="the" />
+        <outline text="quick">
+          <outline text="brown" />
+          <outline text="fox" />
+        </outline>
+        <outline text="jumped" />
+        <outline text="over">
+          <outline text="the" />
+          <outline text="lazy" />
+          <outline text="dog" />
+        </outline>
+      </outline>
+    </outline>
+    <outline text="&lt;i&gt;baz&lt;/i&gt;" _note="Aliquam sit amet sem ac nisl porta porta. Morbi non ante fringilla, tristique velit ut, vestibulum metus. Aliquam sollicitudin nisi eget augue pellentesque maximus. Morbi vitae arcu velit. Etiam vitae dignissim nibh. Mauris nulla libero, lobortis quis est nec, mollis pulvinar nisi. Mauris iaculis ligula lectus, in blandit ipsum tincidunt eget. Maecenas lobortis eros quis dictum scelerisque. Pellentesque non egestas tellus. Etiam eget elit congue, facilisis nibh dictum, tincidunt ligula." />
+    <outline text="&lt;u&gt;lorem&lt;/u&gt;" />
+    <outline text="&lt;b&gt;&lt;i&gt;&lt;u&gt;ipsum&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;">
+      <outline text="foo" />
+      <outline text="bar">
+        <outline text="&lt;i&gt;&lt;u&gt;baz&lt;/u&gt;&lt;/i&gt;" />
+        <outline text="foobar" />
+      </outline>
+      <outline text="&lt;b&gt;&lt;i&gt;&lt;u&gt;ipsum&lt;/u&gt;&lt;/i&gt;&lt;/b&gt; #copy">
+        <outline text="foo" />
+        <outline text="bar">
+          <outline text="baz" />
+          <outline text="foobar" />
+        </outline>
+      </outline>
+    </outline>
+    <outline text="#tags">
+      <outline text="A&lt;u&gt;liquam sit amet sem ac nisl porta porta. Morbi non ante fringilla, t&lt;/u&gt;ristique velit ut, vestibulum metus. Aliquam sollicitudin nisi eget augue pellentesque maximus. Morbi vitae arcu velit. Etiam &lt;b&gt;vitae dignissim nibh. Mauris nulla libero, lobortis quis e&lt;/b&gt;st nec, mollis pulvinar nisi. Mauris iaculis ligu&lt;i&gt;la lectus, in blandit i&lt;u&gt;psum tincidunt eget. Maec&lt;/u&gt;enas lobortis eros quis dictum scelerisque. Pellentesque non egestas tellus. E&lt;/i&gt;tiam eget elit congue, facilisis nibh dictum, tincidunt ligula." _note="Maecenas varius veli&lt;i&gt;t ut maximus pretium. &#10;Etiam eros enim, laoreet nec consectetur ac,&#10; scelerisque imperdiet justo. Proin ac enim mi. Pellentesque in diam suscipit, varius enim vel, vehicula ipsum. Vestibulum in libero vel dolor lacinia&#10; dignissim et in nisl. Morb&lt;b&gt;i non risus molestie, blandi&lt;/b&gt;&lt;/i&gt;&lt;b&gt;t maur&lt;/b&gt;is m&#10;ollis, porta ligula. Praesent euismod egestas mi, ac gravida lorem&lt;u&gt; rhoncus lacinia. In hac habitasse platea dict&lt;/u&gt;umst. Integer eget aliquam turpis." />
+      <outline text="&lt;u&gt;Fusce id justo leo. Aliquam aliquam dignissim justo nec lacinia. Etiam semper eget turpis at hendrerit. Vivamus justo lig&lt;i&gt;ula, sollicitudin at dui id, consectetur euismod mauris. Quisque nunc tortor, malesuada non accumsan a, iaculis ac ligula. Interd&lt;/i&gt;um et malesuada fames ac ante ipsum primis in faucibus.&lt;b&gt; Morbi posuere augue lacus, in faucibus augue dapibus quis. Etiam efficitur ultricies est non tincidunt. Nullam pretium, dui eu finibus volutpat, mi tellus porttitor libero, vitae eleifend sapien purus et ante. Donec tincidunt lectus quis justo c&lt;/b&gt;onvallis, pellentesque placerat felis congue. Donec pulvinar mi non quam hendrerit finibus. Aenean aliquam risus eget neque sodales tempus. Sed aliquet libero sed pharetra venenatis.&lt;/u&gt;">
+        <outline text="&lt;u&gt;eleifend sapien purus et ante. Donec tincidunt lectus quis justo convallis, pellentesque placerat felis&lt;/u&gt; congue. Donec pulvinar mi non quam hendrerit finibus. Aenean aliquam risus eget neque sodales tempus. Sed aliquet libero se&lt;u&gt;d pharetra venenatis.&lt;/u&gt;" _note="&lt;u&gt;it. Vivamus justo ligula, sollicitudin at dui id, consec&#10;tetur euismod mauris. Quisque nunc tortor, malesua&#10;da non accumsan a, iaculis ac ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi posuere augue lacus, in faucibus augue dapibus&#10; quis. Etiam efficitur ultricies est non tincidunt. Nul&#10;lam pretium, dui eu finibus volutpat, mi t&lt;/u&gt;">
+          <outline text="&lt;u&gt;primis in faucibus. Morbi posuere augue lacus, in faucibus augue dapibus quis. Etiam efficitur ultricies est non tincidunt. Nullam pretium, dui eu finibus volutpat, mi tellus porttitor libero, vitae eleifend sapien purus et ante. Donec tincidunt lectus quis justo convallis, pellente&lt;/u&gt;" _note="&lt;u&gt;it. Vivamus justo ligula, sollicitudin at dui id,&#10; consectetur euismod mauris. Quisque nunc tortor, malesuada non accumsan &lt;i&gt;a, iac&lt;/i&gt;&lt;/u&gt;&lt;i&gt;ulis ac ligula. Interd&lt;u&gt;um et malesuada fames ac ante ipsu&#10;m primis in faucibus. Morbi posuere augu&#10;&lt;b&gt;e lacus, in faucibus augu&lt;/b&gt;&lt;/u&gt;&lt;/i&gt;&lt;u&gt;&lt;b&gt;e dapibus quis. Etiam efficitur ultricies est non tincidunt. Nullam pretium&#10;, d&lt;/b&gt;&lt;/u&gt;&lt;b&gt;ui eu finibus vo&lt;u&gt;lutpa&lt;/u&gt;&lt;/b&gt;&lt;u&gt;t, mi t&lt;/u&gt;" />
+        </outline>
+      </outline>
+      <outline text="#moretags" />
+    </outline>
+    <outline text="&lt;a href=&quot;https://www.example.com&quot;&gt;https://www.example.com&lt;/a&gt;">
+      <outline text="&lt;a href=&quot;https://www.example.com/foo&quot;&gt;https://www.example.com/foo&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.example.com/bar&quot;&gt;https://www.example.com/bar&lt;/a&gt;">
+        <outline text="&lt;a href=&quot;https://www.example.com/baz&quot;&gt;https://www.example.com/baz&lt;/a&gt;">
+          <outline text="&lt;a href=&quot;https://www.example.com/baz&quot;&gt;https://www.example.com/baz&lt;/a&gt;" />
+        </outline>
+        <outline text="&lt;a href=&quot;https://www.example.com/baz&quot;&gt;https://www.example.com/baz&lt;/a&gt;" />
+      </outline>
+      <outline text="&lt;a href=&quot;https://www.example.com/baz&quot;&gt;https://www.example.com/baz&lt;/a&gt;" />
+    </outline>
+    <outline text="ありがとう" _note="うんこｗｗｗｗｗ&#10;あどぁだｗｌぢあ；どか；ｃくぁｐｃか&#10;わど；わｊｋｄ；おわｊだを；ｊも；わｃ；おあｊ&#10;あｗぃだｗｈ；だｗｊｄ；あをｄじゃｗ；お">
+      <outline text="&lt;u&gt;ございます&lt;/u&gt;" />
+      <outline text="&lt;b&gt;こんいちは&lt;/b&gt;">
+        <outline text="わらわらあd；あ；おｗｃ和cあおｗｄｗｄ；あおｄ">
+          <outline text="えwファイl；j；会えフォじゃえ；fjwd；和jmゔぁお；あｍ；ｗｃ">
+            <outline text="あいｄじゃｗ；おいｄじゃｄ；いあｊｄ" />
+          </outline>
+          <outline text="ｆぇいｆねぃふぇｌ；ｊあｓｊでゃぃうぉｃぅいｈかおｗｈんｊうぃｌじゃｗ；ｌしじゃｃ；あおいじゃ；おかｍ；こあｍｃ" _note="絵愛fjウェア；dじゃw；おｄじ&lt;b&gt;ゃ；をdじゃcmあｗかｗｄぃわんｄぁｗどぁいｆんわwふぁうｈだｗｌしゎん&lt;/b&gt;かいｌｃ&lt;i&gt;なｌかいｌｆわ&#10;あどぁいど&lt;u&gt;ぁｊしｗｊか；おかｃま&lt;/u&gt;&lt;/i&gt;&lt;u&gt;おか&lt;/u&gt;；おｄじゃｗ；おｄじゃあｄ&#10;あうぃだん；おあｗｊだ；をｄｊをｄｊを；ｄじゃ；ｄじゃｗｄ&#10;&#10;あｗぢあｗｄ；あｗどわ；ｊｄじゃ" />
+        </outline>
+      </outline>
+      <outline text="&lt;i&gt;しかたがないですね&lt;/i&gt;" />
+    </outline>
+    <outline text="😀😃😄😁😆😅😂🤣☺️😇🙂🙃😉😍😘😗😙😋😛😝😜🤪🤨🧐🤓😎🤩😏😒😞😔😟😕🙁☹️😣😖😫😩😢😭😤😠😡🤬🤯😳😱😨😰😥😓🤗🤔🤭🤫🤥😶😐😑😬🙄😯😦😧😮😲😴🤤😪😵🤐🤢🤮🤧😷🤒🤕🤑🤠😈👿👹👺🤡💩👻💀☠️👽👾🤖🎃😺😸😹😻😼😽🙀😿😾🤲🤲🏻🤲🏼🤲🏽👐🏾🤲🏿👐👐🏻👐🏼👐🏽👐🏾👐🏿🙌🙌🏻🙌🏼🙌🏽🙌🏾🙌🏿👏👏🏻👏🏼👏🏽👏🏾👏🏿🤝👍👍🏻👍🏼👍🏽👍🏾👍🏿👎👎🏻👎🏼👎🏽👎🏾👎🏿👊👊🏻👊🏼👊🏽👊🏾👊🏿✊✊🏻✊🏼✊🏽✊🏾✊🏿🤛🤛🏻🤛🏼🤛🏽🤛🏾🤛🏿🤜🤜🏻🤜🏼🤜🏽🤜🏾🤜🏿🤞🤞🏻🤞🏼🤞🏽🤞🏾🤞🏿✌️✌🏻✌🏼✌🏽✌🏾✌🏿🤟🤟🏻🤟🏼🤟🏽🤟🏾🤟🏿🤘🤘🏻" _note="👩‍🏭👩🏻‍🏭👩🏼‍🏭👩🏽‍🏭👩🏾‍🏭👩🏿‍🏭👨‍🏭👨🏻‍🏭👨🏼‍🏭👨🏽‍🏭👨🏾‍🏭👨🏿‍🏭👩‍💻👩🏻‍💻👩🏼‍💻👩🏽‍💻👩🏾‍💻👩🏿‍💻👨‍💻👨🏻‍💻👨🏼‍💻👨🏽‍💻👨🏾‍💻👨🏿‍💻👩‍💼👩🏻‍💼👩🏼‍💼👩🏽‍💼👩🏾‍💼👩🏿‍💼👨‍💼👨🏻‍💼👨🏼‍💼👨🏽‍💼👨🏾‍💼👨🏿‍💼👩‍🔧👩🏻‍🔧👩🏼‍🔧👩🏽‍🔧👩🏾‍🔧👩🏿‍🔧👨‍🔧👨🏻‍🔧👨🏼‍🔧👨🏽‍🔧👨🏾‍🔧👨🏿‍🔧👩‍🔬👩🏻‍🔬👩🏼‍🔬👩🏽‍🔬👩🏾‍🔬👩🏿‍🔬👨‍🔬👨🏻‍🔬👨🏼‍🔬👨🏽‍🔬👨🏾‍🔬👨🏿‍🔬👩‍🎨👩🏻‍🎨👩🏼‍🎨👩🏽‍🎨👩🏾‍🎨👩🏿‍🎨👨‍🎨👨🏻‍🎨👨🏼‍🎨👨🏽‍🎨👨🏾‍🎨👨🏿‍🎨👩‍🚒">
+      <outline text="👩‍🏭👩🏻‍🏭👩🏼‍🏭👩🏽‍🏭👩🏾‍🏭👩🏿‍🏭👨‍🏭👨🏻‍🏭👨🏼‍🏭👨🏽‍🏭👨🏾‍🏭👨🏿‍🏭👩‍💻👩🏻‍💻👩🏼‍💻👩🏽‍💻👩🏾‍💻👩🏿‍💻👨‍💻👨🏻‍💻👨🏼‍💻👨🏽‍💻👨🏾‍💻👨🏿‍💻👩‍💼👩🏻‍💼👩🏼‍💼👩🏽‍💼👩🏾‍💼👩🏿‍💼👨‍💼👨🏻‍💼👨🏼‍💼👨🏽‍💼👨🏾‍💼👨🏿‍💼👩‍🔧👩🏻‍🔧👩🏼‍🔧👩🏽‍🔧👩🏾‍🔧👩🏿‍🔧👨‍🔧👨🏻‍🔧👨🏼‍🔧👨🏽‍🔧👨🏾‍🔧👨🏿‍🔧👩‍🔬👩🏻‍🔬👩🏼‍🔬👩🏽‍🔬👩🏾‍🔬👩🏿‍🔬👨‍🔬👨🏻‍🔬👨🏼‍🔬👨🏽‍🔬👨🏾‍🔬👨🏿‍🔬👩‍🎨👩🏻‍🎨👩🏼‍🎨👩🏽‍🎨👩🏾‍🎨👩🏿‍🎨👨‍🎨👨🏻‍🎨👨🏼‍🎨👨🏽‍🎨👨🏾‍🎨👨🏿‍🎨👩‍🚒">
+        <outline text="🙎🏿‍♀️🙎‍♂️🙎🏻‍♂️🙎🏼‍♂️🙎🏽‍♂️🙎🏾‍♂️🙎🏿‍♂️🙍‍♀️🙍🏻‍♀️🙍🏼‍♀️🙍🏽‍♀️🙍🏾‍♀️🙍🏿‍♀️🙍‍♂️🙍🏻‍♂️🙍🏼‍♂️">
+          <outline text="🙎🏿‍♀️🙎‍♂️🙎🏻‍♂️🙎🏼‍♂️🙎🏽‍♂️🙎🏾‍♂️🙎🏿‍♂️🙍‍♀️🙍🏻‍♀️🙍🏼‍♀️🙍🏽‍♀️🙍🏾‍♀️🙍🏿‍♀️🙍‍♂️🙍🏻‍♂️🙍🏼‍♂️" />
+          <outline text="🙎🏿‍♀️🙎‍♂️🙎🏻‍♂️🙎🏼‍♂️🙎🏽‍♂️🙎🏾‍♂️🙎🏿‍♂️🙍‍♀️🙍🏻‍♀️🙍🏼‍♀️🙍🏽‍♀️🙍🏾‍♀️🙍🏿‍♀️🙍‍♂️🙍🏻‍♂️🙍🏼‍♂️" />
+        </outline>
+      </outline>
+      <outline text="🙋🏾‍♂️🙋🏿‍♂️🤦‍♀️🤦🏻‍♀️🤦🏼‍♀️🤦🏽‍♀️🤦🏾‍♀️🤦🏿‍♀️🤦‍♂️🤦🏻‍♂️🤦🏼‍♂️🤦🏽‍♂️🤦🏾‍♂️🤦🏿‍♂️🤷‍♀️🤷🏻‍♀️🤷🏼‍♀️🤷🏽‍♀️🤷🏾‍♀️🤷🏿‍♀️🤷‍♂️🤷🏻‍♂️🤷🏼‍♂️🤷🏽‍♂️🤷🏾‍♂️🤷🏿‍♂️🙎‍♀️🙎🏻‍♀️🙎🏼‍♀️🙎🏽‍♀️🙎🏾‍♀️🙎🏿‍♀️🙎‍♂️🙎🏻‍♂️🙎🏼‍♂️🙎🏽‍♂️🙎🏾‍♂️🙎🏿‍♂️🙍‍♀️🙍🏻‍♀️🙍🏼‍♀️🙍🏽‍♀️🙍🏾‍♀️🙍🏿‍♀️🙍‍♂️🙍🏻‍♂️🙍🏼‍♂️🙍🏽‍♂️🙍🏾‍♂️🙍🏿‍♂️💇‍♀️💇🏻‍♀️💇🏼‍♀️💇🏽‍♀️💇🏾‍♀️💇🏿‍♀️💇‍♂️💇🏻‍♂️💇🏼‍♂️💇🏽‍♂️💇🏾‍♂️💇🏿‍♂️💆‍♀️💆🏻‍♀️💆🏼‍♀️💆🏽‍♀️💆🏾‍♀️💆🏿‍♀️💆‍♂️💆🏻‍♂️💆🏼‍♂️💆🏽‍♂️💆🏾‍♂️💆🏿‍♂️🧖‍♀️🧖🏻‍♀️🧖🏼‍♀️🧖🏽‍♀️🧖🏾‍♀️🧖🏿‍♀️🧖‍♂️🧖🏻‍♂️🧖🏼‍♂️🧖🏽‍♂️🧖🏾‍♂️🧖🏿‍♂️💅💅🏻💅🏼💅🏽💅🏾💅🏿🤳🤳🏻🤳🏼🤳🏽🤳🏾🤳🏿💃💃🏻💃🏼💃🏽💃🏾💃🏿🕺🕺🏻🕺🏼🕺🏽🕺🏾🕺🏿👯‍♀️👯‍♂️🕴🕴🏻" _note="💆🏽‍♀️💆🏾‍♀️💆🏿‍♀️💆‍♂️💆🏻‍♂️💆🏼‍♂️💆🏽‍♂️💆🏾‍♂️💆🏿‍♂️🧖‍♀️🧖🏻‍♀️🧖🏼‍♀️🧖🏽‍♀️🧖🏾‍♀️🧖🏿‍♀️🧖‍♂️🧖🏻‍♂️🧖🏼‍♂️🧖🏽‍♂️🧖🏾‍♂️🧖🏿‍♂️💅💅🏻💅🏼💅🏽💅🏾💅🏿🤳🤳🏻🤳🏼🤳🏽🤳🏾🤳🏿💃💃🏻💃🏼💃🏽💃🏾💃🏿🕺🕺🏻🕺🏼🕺🏽🕺🏾🕺🏿👯‍♀️👯‍♂️🕴🕴🏻">
+        <outline text="🐁🐀🐿🦔🐾🐉🐲🌵🎄🌲🌳🌴🌱🌿☘️🍀🎍🎋🍃🍂🍁🍄🌾💐🌷🌹🥀🌺🌸🌼🌻🌞🌝🌛🌜🌚🌕🌖🌗🌘🌑🌒🌓🌔🌙🌎🌍🌏💫⭐️🌟✨⚡️☄️💥🔥🌪🌈☀️🌤⛅️🌥☁️🌦🌧⛈🌩🌨❄️☃️⛄️🌬💨💧💦☔️☂️🌊🌫🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🍍🥥🥝🍅🍆🥑🥦🥒🌶🌽🥕🥔🍠🥐🍞🥖🥨🧀🥚🍳🥞🥓🥩🍗🍖🌭🍔🍟🍕🥪🥙🌮🌯🥗🥘🥫🍝🍜🍲🍛🍣🍱🥟🍤🍙🍚🍘🍥🥠🍢" />
+        <outline text="🐁🐀🐿🦔🐾🐉🐲🌵🎄🌲🌳🌴🌱🌿☘️🍀🎍🎋🍃🍂🍁🍄🌾💐🌷🌹🥀🌺🌸🌼🌻🌞🌝🌛🌜🌚🌕🌖🌗🌘🌑🌒🌓🌔🌙🌎🌍🌏💫⭐️🌟">
+          <outline text="🐁🐀🐿🦔🐾🐉🐲🌵🎄🌲🌳🌴🌱🌿☘️🍀🎍🎋🍃🍂🍁🍄🌾💐🌷🌹🥀🌺🌸🌼🌻🌞🌝🌛🌜🌚🌕🌖🌗🌘🌑🌒🌓🌔🌙🌎🌍🌏💫⭐️🌟" />
+        </outline>
+      </outline>
+    </outline>
+    <outline text="༼ᕗຈل͜ຈ༽ᕗᕙ། ಠ 益 ಠೃ །ᕗᕦ| ◕ ⌂ ◕ |ᕤᕦ〳 ۞ ʖ̫ ۞ 〵ᕤᕙ( ¤ 〰 ¤ )ᕗᕦ[ ◑ □ ◑ ]ᕤᕙ (° ~ ° ~)ᕦ( ⇀ ل ↼ )ᕤᕙ[ ・ ∧ ・ ]ᕗᕦ〳 ⊙ ڡ ⊙ 〵ᕤᕙ[ ˵ ͡’ ω ͡’ ˵ ]ᕗᕦʕ . ☯ ᴥ ☯ . ʔᕤᕦ( ⊡ 益 ⊡ )ᕤᕦ〳 ◑ ‸ ◑ 〵ᕤᕙ། ¯ ~͜ʖ~ ¯ །ᕗᕦʕ ⊙ ◡ ⊙ ʔᕤᕦ༼ ˵ ◯ ਊ ◯ ˵ ༽ᕤ˚₊*୧⃛(๑⃙⃘⁼̴̀꒳⁼̴́๑⃙⃘)୨⃛*₊˚⋆୧(ಠ⌣ಠ)୨ᕙ(͡°‿ ͡°)ᕗᕦ༼ ͡° ͜ ͝° ༽ᕤᕙ(˵ ಠ ਊ ಠ ˵)ᕗᕙ[･۝･]ᕗᕙ〳 ರ ︿ ರೃ 〵ᕗᕙ(☉ਊ☉)ᕗᕙ( ~ . ~ )ᕗ୧( ಠ Д ಠ )୨ᕦ╏ ʘ̆ ‸ ʘ̆ ╏ᕤ" _note="༼ᕗຈل͜ຈ༽ᕗᕙ། ಠ 益 ಠೃ །ᕗᕦ| ◕ ⌂ ◕ |ᕤᕦ〳 ۞ ʖ̫ ۞ 〵ᕤᕙ( ¤ 〰 ¤ )ᕗᕦ[ ◑ □ ◑ ]ᕤᕙ (° ~ ° ~)ᕦ( ⇀ ل ↼ )ᕤᕙ[ ・ ∧ ・ ]ᕗᕦ〳 ⊙ ڡ ⊙ 〵ᕤᕙ[ ˵ ͡’ ω ͡’ ˵ ]ᕗᕦʕ . ☯ ᴥ ☯ . ʔᕤᕦ( ⊡ 益 ⊡ )ᕤᕦ〳 ◑ ‸ ◑ 〵ᕤᕙ། ¯ ~͜ʖ~ ¯ །ᕗᕦʕ ⊙ ◡ ⊙ ʔᕤᕦ༼ ˵ ◯ ਊ ◯ ˵ ༽ᕤ˚₊*୧⃛(๑⃙⃘⁼̴̀꒳⁼̴́๑⃙⃘)୨⃛*₊˚⋆୧(ಠ⌣ಠ)୨ᕙ(͡°‿ ͡°)ᕗᕦ༼ ͡° ͜ ͝° ༽ᕤᕙ(˵ ಠ ਊ ಠ ˵)ᕗᕙ[･۝･]ᕗᕙ〳 ರ ︿ ರೃ 〵ᕗᕙ(☉ਊ☉)ᕗᕙ( ~ . ~ )ᕗ୧( ಠ Д ಠ )୨ᕦ╏ ʘ̆ ‸ ʘ̆ ╏ᕤ">
+      <outline text="༼ᕗຈل͜ຈ༽ᕗ	ᕙ། ಠ 益 ಠೃ །ᕗ	ᕦ| ◕ ⌂ ◕ |ᕤ" />
+      <outline text="ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ	ᕙ( ¤ 〰 ¤ )ᕗ	ᕦ[ ◑ □ ◑ ]ᕤ">
+        <outline text="༼ᕗຈل͜ຈ༽ᕗ	ᕙ། ಠ 益 ಠೃ །ᕗ	ᕦ| ◕ ⌂ ◕ |ᕤ" />
+        <outline text="ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ	ᕙ( ¤ 〰 ¤ )ᕗ	ᕦ[ ◑ □ ◑ ]ᕤ">
+          <outline text="ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ	ᕙ( ¤ 〰 ¤ )ᕗ	ᕦ[ ◑ □ ◑ ]ᕤ" />
+        </outline>
+        <outline text="ᕙ (° ~ ° ~)	ᕦ( ⇀ ل ↼ )ᕤ" />
+      </outline>
+      <outline text="ᕙ (° ~ ° ~)	ᕦ( ⇀ ل ↼ )ᕤ">
+        <outline text="༼ᕗຈل͜ຈ༽ᕗ	ᕙ། ಠ 益 ಠೃ །ᕗ	ᕦ| ◕ ⌂ ◕ |ᕤ">
+          <outline text="ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ	ᕙ( ¤ 〰 ¤ )ᕗ	ᕦ[ ◑ □ ◑ ]ᕤ" />
+        </outline>
+        <outline text="ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ	ᕙ( ¤ 〰 ¤ )ᕗ	ᕦ[ ◑ □ ◑ ]ᕤ" />
+        <outline text="ᕙ (° ~ ° ~)	ᕦ( ⇀ ل ↼ )ᕤ" />
+      </outline>
+    </outline>
+  </body>
+</opml>
