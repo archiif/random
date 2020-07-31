@@ -1,0 +1,234 @@
+* foo
+
+** foo
+
+*** lorem
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a est ut
+mi blandit elementum. Nulla molestie metus quis lobortis rut rum.
+Quisque commodo ligul a ex, vitae interdum turpis porta eget.
+Pellentesque habitant morbi tristique senectus et netus et malesuada
+fames ac turpis egestas. Ve stibulum nec ligula non est rhoncus
+efficitur. Nullam diam nisl, dictum pharetra congue ut, congue in nisi.
+Sed semper non est ut pulvinar.
+
+*** ipsum
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras
+vehicula faucibus sem sit amet dapibus. Aenean semper orci vel c ommodo
+vehicula. Quisque at justo elit. Vestibulum ante ipsum primis in
+faucibus orci luctus et ultrices posuere cubilia curae; Etiam magna ex,
+dapibus eu purus vel, mollis venenatis enim. Nam turpis ligula , rutrum
+ac venenatis hendrerit, imperdiet vel libero. Etiam varius dolor mauris,
+nec fermentum lectus tempus in. Etiam vulputate dolor n ec cursus
+elementum. Nulla non finibus erat, quis lobortis erat. Cras rhoncus
+accumsan purus, at sagittis velit scelerisque eu. Aenean consectetur
+erat magna, vehicula fringilla neque condimentum eget. Donec scelerisque
+ex a est rhoncus, eget malesuada nibh faucibus.
+
+** *bar*
+
+*** the
+
+*** quick
+
+**** brown
+
+**** fox
+
+*** jumped
+
+*** over
+
+**** the
+
+**** lazy
+
+**** dog
+
+* /baz/
+
+Aliquam sit amet sem ac nisl porta porta. Morbi non ante fringilla,
+tristique velit ut, vestibulum metus. Aliquam sollicitudin nisi eget
+augue pellentesque maximus. Morbi vitae arcu velit. Etiam vitae
+dignissim nibh. Mauris nulla libero, lobortis quis est nec, mollis
+pulvinar nisi. Mauris iaculis ligula lectus, in blandit ipsum tincidunt
+eget. Maecenas lobortis eros quis dictum scelerisque. Pellentesque non
+egestas tellus. Etiam eget elit congue, facilisis nibh dictum, tincidunt
+ligula.
+
+* _lorem_
+
+* */_ipsum_/*
+
+** foo
+
+** bar
+
+*** /_baz_/
+
+*** foobar
+
+** */_ipsum_/* #copy
+
+*** foo
+
+*** bar
+
+**** baz
+
+**** foobar
+
+* #tags
+
+** A_liquam sit amet sem ac nisl porta porta. Morbi non ante fringilla,
+t_ristique velit ut, vestibulum metus. Aliquam sollicitudin nisi eget
+augue pellentesque maximus. Morbi vitae arcu velit. Etiam *vitae
+dignissim nibh. Mauris nulla libero, lobortis quis e*st nec, mollis
+pulvinar nisi. Mauris iaculis ligu/la lectus, in blandit i_psum
+tincidunt eget. Maec_enas lobortis eros quis dictum scelerisque.
+Pellentesque non egestas tellus. E/tiam eget elit congue, facilisis nibh
+dictum, tincidunt ligula.
+
+Maecenas varius velit ut maximus pretium. Etiam eros enim, laoreet nec
+consectetur ac, scelerisque imperdiet justo. Proin ac enim mi.
+Pellentesque in diam suscipit, varius enim vel, vehicula ipsum.
+Vestibulum in libero vel dolor lacinia dignissim et in nisl. Morbi non
+risus molestie, blandit mauris m ollis, porta ligula. Praesent euismod
+egestas mi, ac gravida lorem rhoncus lacinia. In hac habitasse platea
+dictumst. Integer eget aliquam turpis.
+
+** _Fusce id justo leo. Aliquam aliquam dignissim justo nec lacinia.
+Etiam semper eget turpis at hendrerit. Vivamus justo lig/ula,
+sollicitudin at dui id, consectetur euismod mauris. Quisque nunc tortor,
+malesuada non accumsan a, iaculis ac ligula. Interd/um et malesuada
+fames ac ante ipsum primis in faucibus. *Morbi posuere augue lacus, in
+faucibus augue dapibus quis. Etiam efficitur ultricies est non
+tincidunt. Nullam pretium, dui eu finibus volutpat, mi tellus porttitor
+libero, vitae eleifend sapien purus et ante. Donec tincidunt lectus quis
+justo c*onvallis, pellentesque placerat felis congue. Donec pulvinar mi
+non quam hendrerit finibus. Aenean aliquam risus eget neque sodales
+tempus. Sed aliquet libero sed pharetra venenatis._
+
+*** _eleifend sapien purus et ante. Donec tincidunt lectus quis justo
+convallis, pellentesque placerat felis_ congue. Donec pulvinar mi non
+quam hendrerit finibus. Aenean aliquam risus eget neque sodales tempus.
+Sed aliquet libero se_d pharetra venenatis._
+
+it. Vivamus justo ligula, sollicitudin at dui id, consec tetur euismod
+mauris. Quisque nunc tortor, malesua da non accumsan a, iaculis ac
+ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+Morbi posuere augue lacus, in faucibus augue dapibus quis. Etiam
+efficitur ultricies est non tincidunt. Nul lam pretium, dui eu finibus
+volutpat, mi t
+
+**** _primis in faucibus. Morbi posuere augue lacus, in faucibus augue
+dapibus quis. Etiam efficitur ultricies est non tincidunt. Nullam
+pretium, dui eu finibus volutpat, mi tellus porttitor libero, vitae
+eleifend sapien purus et ante. Donec tincidunt lectus quis justo
+convallis, pellente_
+
+it. Vivamus justo ligula, sollicitudin at dui id, consectetur euismod
+mauris. Quisque nunc tortor, malesuada non accumsan a, iaculis ac
+ligula. Interdum et malesuada fames ac ante ipsu m primis in faucibus.
+Morbi posuere augu e lacus, in faucibus augue dapibus quis. Etiam
+efficitur ultricies est non tincidunt. Nullam pretium , dui eu finibus
+volutpat, mi t
+
+** #moretags
+
+* [[https://www.example.com]]
+
+** [[https://www.example.com/foo]]
+
+** [[https://www.example.com/bar]]
+
+*** [[https://www.example.com/baz]]
+
+**** [[https://www.example.com/baz]]
+
+*** [[https://www.example.com/baz]]
+
+** [[https://www.example.com/baz]]
+
+* ありがとう
+
+うんこｗｗｗｗｗ あどぁだｗｌぢあ；どか；ｃくぁｐｃか
+わど；わｊｋｄ；おわｊだを；ｊも；わｃ；おあｊ
+あｗぃだｗｈ；だｗｊｄ；あをｄじゃｗ；お
+
+** _ございます_
+
+** *こんいちは*
+
+*** わらわらあd；あ；おｗｃ和cあおｗｄｗｄ；あおｄ
+
+**** えwファイl；j；会えフォじゃえ；fjwd；和jmゔぁお；あｍ；ｗｃ
+
+***** あいｄじゃｗ；おいｄじゃｄ；いあｊｄ
+
+**** ｆぇいｆねぃふぇｌ；ｊあｓｊでゃぃうぉｃぅいｈかおｗｈんｊうぃｌじゃｗ；ｌしじゃｃ；あおいじゃ；おかｍ；こあｍｃ
+
+絵愛fjウェア；dじゃw；おｄじゃ；をdじゃcmあｗかｗｄぃわんｄぁｗどぁいｆんわwふぁうｈだｗｌしゎんかいｌｃなｌかいｌｆわ
+あどぁいどぁｊしｗｊか；おかｃまおか；おｄじゃｗ；おｄじゃあｄ
+あうぃだん；おあｗｊだ；をｄｊをｄｊを；ｄじゃ；ｄじゃｗｄ
+
+あｗぢあｗｄ；あｗどわ；ｊｄじゃ
+
+** /しかたがないですね/
+
+* 😀😃😄😁😆😅😂🤣☺️😇🙂🙃😉😍😘😗😙😋😛😝😜🤪🤨🧐🤓😎🤩😏😒😞😔😟😕🙁☹️😣😖😫😩😢😭😤😠😡🤬🤯😳😱😨😰😥😓🤗🤔🤭🤫🤥😶😐😑😬🙄😯😦😧😮😲😴🤤😪😵🤐🤢🤮🤧😷🤒🤕🤑🤠😈👿👹👺🤡💩👻💀☠️👽👾🤖🎃😺😸😹😻😼😽🙀😿😾🤲🤲🏻🤲🏼🤲🏽👐🏾🤲🏿👐👐🏻👐🏼👐🏽👐🏾👐🏿🙌🙌🏻🙌🏼🙌🏽🙌🏾🙌🏿👏👏🏻👏🏼👏🏽👏🏾👏🏿🤝👍👍🏻👍🏼👍🏽👍🏾👍🏿👎👎🏻👎🏼👎🏽👎🏾👎🏿👊👊🏻👊🏼👊🏽👊🏾👊🏿✊✊🏻✊🏼✊🏽✊🏾✊🏿🤛🤛🏻🤛🏼🤛🏽🤛🏾🤛🏿🤜🤜🏻🤜🏼🤜🏽🤜🏾🤜🏿🤞🤞🏻🤞🏼🤞🏽🤞🏾🤞🏿✌️✌🏻✌🏼✌🏽✌🏾✌🏿🤟🤟🏻🤟🏼🤟🏽🤟🏾🤟🏿🤘🤘🏻
+
+👩‍🏭👩🏻‍🏭👩🏼‍🏭👩🏽‍🏭👩🏾‍🏭👩🏿‍🏭👨‍🏭👨🏻‍🏭👨🏼‍🏭👨🏽‍🏭👨🏾‍🏭👨🏿‍🏭👩‍💻👩🏻‍💻👩🏼‍💻👩🏽‍💻👩🏾‍💻👩🏿‍💻👨‍💻👨🏻‍💻👨🏼‍💻👨🏽‍💻👨🏾‍💻👨🏿‍💻👩‍💼👩🏻‍💼👩🏼‍💼👩🏽‍💼👩🏾‍💼👩🏿‍💼👨‍💼👨🏻‍💼👨🏼‍💼👨🏽‍💼👨🏾‍💼👨🏿‍💼👩‍🔧👩🏻‍🔧👩🏼‍🔧👩🏽‍🔧👩🏾‍🔧👩🏿‍🔧👨‍🔧👨🏻‍🔧👨🏼‍🔧👨🏽‍🔧👨🏾‍🔧👨🏿‍🔧👩‍🔬👩🏻‍🔬👩🏼‍🔬👩🏽‍🔬👩🏾‍🔬👩🏿‍🔬👨‍🔬👨🏻‍🔬👨🏼‍🔬👨🏽‍🔬👨🏾‍🔬👨🏿‍🔬👩‍🎨👩🏻‍🎨👩🏼‍🎨👩🏽‍🎨👩🏾‍🎨👩🏿‍🎨👨‍🎨👨🏻‍🎨👨🏼‍🎨👨🏽‍🎨👨🏾‍🎨👨🏿‍🎨👩‍🚒
+
+** 👩‍🏭👩🏻‍🏭👩🏼‍🏭👩🏽‍🏭👩🏾‍🏭👩🏿‍🏭👨‍🏭👨🏻‍🏭👨🏼‍🏭👨🏽‍🏭👨🏾‍🏭👨🏿‍🏭👩‍💻👩🏻‍💻👩🏼‍💻👩🏽‍💻👩🏾‍💻👩🏿‍💻👨‍💻👨🏻‍💻👨🏼‍💻👨🏽‍💻👨🏾‍💻👨🏿‍💻👩‍💼👩🏻‍💼👩🏼‍💼👩🏽‍💼👩🏾‍💼👩🏿‍💼👨‍💼👨🏻‍💼👨🏼‍💼👨🏽‍💼👨🏾‍💼👨🏿‍💼👩‍🔧👩🏻‍🔧👩🏼‍🔧👩🏽‍🔧👩🏾‍🔧👩🏿‍🔧👨‍🔧👨🏻‍🔧👨🏼‍🔧👨🏽‍🔧👨🏾‍🔧👨🏿‍🔧👩‍🔬👩🏻‍🔬👩🏼‍🔬👩🏽‍🔬👩🏾‍🔬👩🏿‍🔬👨‍🔬👨🏻‍🔬👨🏼‍🔬👨🏽‍🔬👨🏾‍🔬👨🏿‍🔬👩‍🎨👩🏻‍🎨👩🏼‍🎨👩🏽‍🎨👩🏾‍🎨👩🏿‍🎨👨‍🎨👨🏻‍🎨👨🏼‍🎨👨🏽‍🎨👨🏾‍🎨👨🏿‍🎨👩‍🚒
+
+*** 🙎🏿‍♀️🙎‍♂️🙎🏻‍♂️🙎🏼‍♂️🙎🏽‍♂️🙎🏾‍♂️🙎🏿‍♂️🙍‍♀️🙍🏻‍♀️🙍🏼‍♀️🙍🏽‍♀️🙍🏾‍♀️🙍🏿‍♀️🙍‍♂️🙍🏻‍♂️🙍🏼‍♂️
+
+**** 🙎🏿‍♀️🙎‍♂️🙎🏻‍♂️🙎🏼‍♂️🙎🏽‍♂️🙎🏾‍♂️🙎🏿‍♂️🙍‍♀️🙍🏻‍♀️🙍🏼‍♀️🙍🏽‍♀️🙍🏾‍♀️🙍🏿‍♀️🙍‍♂️🙍🏻‍♂️🙍🏼‍♂️
+
+**** 🙎🏿‍♀️🙎‍♂️🙎🏻‍♂️🙎🏼‍♂️🙎🏽‍♂️🙎🏾‍♂️🙎🏿‍♂️🙍‍♀️🙍🏻‍♀️🙍🏼‍♀️🙍🏽‍♀️🙍🏾‍♀️🙍🏿‍♀️🙍‍♂️🙍🏻‍♂️🙍🏼‍♂️
+
+** 🙋🏾‍♂️🙋🏿‍♂️🤦‍♀️🤦🏻‍♀️🤦🏼‍♀️🤦🏽‍♀️🤦🏾‍♀️🤦🏿‍♀️🤦‍♂️🤦🏻‍♂️🤦🏼‍♂️🤦🏽‍♂️🤦🏾‍♂️🤦🏿‍♂️🤷‍♀️🤷🏻‍♀️🤷🏼‍♀️🤷🏽‍♀️🤷🏾‍♀️🤷🏿‍♀️🤷‍♂️🤷🏻‍♂️🤷🏼‍♂️🤷🏽‍♂️🤷🏾‍♂️🤷🏿‍♂️🙎‍♀️🙎🏻‍♀️🙎🏼‍♀️🙎🏽‍♀️🙎🏾‍♀️🙎🏿‍♀️🙎‍♂️🙎🏻‍♂️🙎🏼‍♂️🙎🏽‍♂️🙎🏾‍♂️🙎🏿‍♂️🙍‍♀️🙍🏻‍♀️🙍🏼‍♀️🙍🏽‍♀️🙍🏾‍♀️🙍🏿‍♀️🙍‍♂️🙍🏻‍♂️🙍🏼‍♂️🙍🏽‍♂️🙍🏾‍♂️🙍🏿‍♂️💇‍♀️💇🏻‍♀️💇🏼‍♀️💇🏽‍♀️💇🏾‍♀️💇🏿‍♀️💇‍♂️💇🏻‍♂️💇🏼‍♂️💇🏽‍♂️💇🏾‍♂️💇🏿‍♂️💆‍♀️💆🏻‍♀️💆🏼‍♀️💆🏽‍♀️💆🏾‍♀️💆🏿‍♀️💆‍♂️💆🏻‍♂️💆🏼‍♂️💆🏽‍♂️💆🏾‍♂️💆🏿‍♂️🧖‍♀️🧖🏻‍♀️🧖🏼‍♀️🧖🏽‍♀️🧖🏾‍♀️🧖🏿‍♀️🧖‍♂️🧖🏻‍♂️🧖🏼‍♂️🧖🏽‍♂️🧖🏾‍♂️🧖🏿‍♂️💅💅🏻💅🏼💅🏽💅🏾💅🏿🤳🤳🏻🤳🏼🤳🏽🤳🏾🤳🏿💃💃🏻💃🏼💃🏽💃🏾💃🏿🕺🕺🏻🕺🏼🕺🏽🕺🏾🕺🏿👯‍♀️👯‍♂️🕴🕴🏻
+
+💆🏽‍♀️💆🏾‍♀️💆🏿‍♀️💆‍♂️💆🏻‍♂️💆🏼‍♂️💆🏽‍♂️💆🏾‍♂️💆🏿‍♂️🧖‍♀️🧖🏻‍♀️🧖🏼‍♀️🧖🏽‍♀️🧖🏾‍♀️🧖🏿‍♀️🧖‍♂️🧖🏻‍♂️🧖🏼‍♂️🧖🏽‍♂️🧖🏾‍♂️🧖🏿‍♂️💅💅🏻💅🏼💅🏽💅🏾💅🏿🤳🤳🏻🤳🏼🤳🏽🤳🏾🤳🏿💃💃🏻💃🏼💃🏽💃🏾💃🏿🕺🕺🏻🕺🏼🕺🏽🕺🏾🕺🏿👯‍♀️👯‍♂️🕴🕴🏻
+
+*** 🐁🐀🐿🦔🐾🐉🐲🌵🎄🌲🌳🌴🌱🌿☘️🍀🎍🎋🍃🍂🍁🍄🌾💐🌷🌹🥀🌺🌸🌼🌻🌞🌝🌛🌜🌚🌕🌖🌗🌘🌑🌒🌓🌔🌙🌎🌍🌏💫⭐️🌟✨⚡️☄️💥🔥🌪🌈☀️🌤⛅️🌥☁️🌦🌧⛈🌩🌨❄️☃️⛄️🌬💨💧💦☔️☂️🌊🌫🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🍍🥥🥝🍅🍆🥑🥦🥒🌶🌽🥕🥔🍠🥐🍞🥖🥨🧀🥚🍳🥞🥓🥩🍗🍖🌭🍔🍟🍕🥪🥙🌮🌯🥗🥘🥫🍝🍜🍲🍛🍣🍱🥟🍤🍙🍚🍘🍥🥠🍢
+
+*** 🐁🐀🐿🦔🐾🐉🐲🌵🎄🌲🌳🌴🌱🌿☘️🍀🎍🎋🍃🍂🍁🍄🌾💐🌷🌹🥀🌺🌸🌼🌻🌞🌝🌛🌜🌚🌕🌖🌗🌘🌑🌒🌓🌔🌙🌎🌍🌏💫⭐️🌟
+
+**** 🐁🐀🐿🦔🐾🐉🐲🌵🎄🌲🌳🌴🌱🌿☘️🍀🎍🎋🍃🍂🍁🍄🌾💐🌷🌹🥀🌺🌸🌼🌻🌞🌝🌛🌜🌚🌕🌖🌗🌘🌑🌒🌓🌔🌙🌎🌍🌏💫⭐️🌟
+
+* ༼ᕗຈل͜ຈ༽ᕗᕙ། ಠ 益 ಠೃ །ᕗᕦ| ◕ ⌂ ◕ |ᕤᕦ〳 ۞ ʖ̫ ۞ 〵ᕤᕙ( ¤ 〰 ¤ )ᕗᕦ[ ◑ □ ◑ ]ᕤᕙ
+(° ~ ° ~)ᕦ( ⇀ ل ↼ )ᕤᕙ[ ・ ∧ ・ ]ᕗᕦ〳 ⊙ ڡ ⊙ 〵ᕤᕙ[ ˵ ͡' ω ͡' ˵ ]ᕗᕦʕ . ☯ ᴥ
+☯ . ʔᕤᕦ( ⊡ 益 ⊡ )ᕤᕦ〳 ◑ ‸ ◑ 〵ᕤᕙ། ¯ ~͜ʖ~ ¯ །ᕗᕦʕ ⊙ ◡ ⊙ ʔᕤᕦ༼ ˵ ◯ ਊ ◯ ˵
+༽ᕤ˚₊*୧⃛(๑⃙⃘⁼̴̀꒳⁼̴́๑⃙⃘)୨⃛*₊˚⋆୧(ಠ⌣ಠ)୨ᕙ(͡°‿ ͡°)ᕗᕦ༼ ͡° ͜ ͝° ༽ᕤᕙ(˵ ಠ ਊ ಠ
+˵)ᕗᕙ[･۝･]ᕗᕙ〳 ರ ︿ ರೃ 〵ᕗᕙ(☉ਊ☉)ᕗᕙ( ~ . ~ )ᕗ୧( ಠ Д ಠ )୨ᕦ╏ ʘ̆ ‸ ʘ̆ ╏ᕤ
+
+༼ᕗຈل͜ຈ༽ᕗᕙ། ಠ 益 ಠೃ །ᕗᕦ| ◕ ⌂ ◕ |ᕤᕦ〳 ۞ ʖ̫ ۞ 〵ᕤᕙ( ¤ 〰 ¤ )ᕗᕦ[ ◑ □ ◑ ]ᕤᕙ (°
+~ ° ~)ᕦ( ⇀ ل ↼ )ᕤᕙ[ ・ ∧ ・ ]ᕗᕦ〳 ⊙ ڡ ⊙ 〵ᕤᕙ[ ˵ ͡' ω ͡' ˵ ]ᕗᕦʕ . ☯ ᴥ ☯ .
+ʔᕤᕦ( ⊡ 益 ⊡ )ᕤᕦ〳 ◑ ‸ ◑ 〵ᕤᕙ། ¯ _{͜ʖ} ¯ །ᕗᕦʕ ⊙ ◡ ⊙ ʔᕤᕦ༼ ˵ ◯ ਊ ◯ ˵
+༽ᕤ˚₊/୧⃛(๑⃙⃘⁼̴̀꒳⁼̴́๑⃙⃘)୨⃛/₊˚⋆୧(ಠ⌣ಠ)୨ᕙ(͡°‿ ͡°)ᕗᕦ༼ ͡° ͜ ͝° ༽ᕤᕙ(˵ ಠ ਊ ಠ
+˵)ᕗᕙ[･۝･]ᕗᕙ〳 ರ ︿ ರೃ 〵ᕗᕙ(☉ਊ☉)ᕗᕙ( ~ . ~ )ᕗ୧( ಠ Д ಠ )୨ᕦ╏ ʘ̆ ‸ ʘ̆ ╏ᕤ
+
+** ༼ᕗຈل͜ຈ༽ᕗ ᕙ། ಠ 益 ಠೃ །ᕗ ᕦ| ◕ ⌂ ◕ |ᕤ
+
+** ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ ᕙ( ¤ 〰 ¤ )ᕗ ᕦ[ ◑ □ ◑ ]ᕤ
+
+*** ༼ᕗຈل͜ຈ༽ᕗ ᕙ། ಠ 益 ಠೃ །ᕗ ᕦ| ◕ ⌂ ◕ |ᕤ
+
+*** ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ ᕙ( ¤ 〰 ¤ )ᕗ ᕦ[ ◑ □ ◑ ]ᕤ
+
+**** ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ ᕙ( ¤ 〰 ¤ )ᕗ ᕦ[ ◑ □ ◑ ]ᕤ
+
+*** ᕙ (° ~ ° ~) ᕦ( ⇀ ل ↼ )ᕤ
+
+** ᕙ (° ~ ° ~) ᕦ( ⇀ ل ↼ )ᕤ
+
+*** ༼ᕗຈل͜ຈ༽ᕗ ᕙ། ಠ 益 ಠೃ །ᕗ ᕦ| ◕ ⌂ ◕ |ᕤ
+
+**** ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ ᕙ( ¤ 〰 ¤ )ᕗ ᕦ[ ◑ □ ◑ ]ᕤ
+
+*** ᕦ〳 ۞ ʖ̫ ۞ 〵ᕤ ᕙ( ¤ 〰 ¤ )ᕗ ᕦ[ ◑ □ ◑ ]ᕤ
+
+*** ᕙ (° ~ ° ~) ᕦ( ⇀ ل ↼ )ᕤ
